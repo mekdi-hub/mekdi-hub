@@ -63,12 +63,12 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mekdi-hub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekdi-hub&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekdi-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/mekdi-hub/mekdi-hub/output/snake.svg" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 ## 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00FFF7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mekdi-hub&label=PROFILE+VIEWS&color=00FFF7&style=for-the-badge" />
 </p>
 
 ---
@@ -110,8 +110,8 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: mekdimeki8@gmail.com 
-- 🐙 GitHub: https://github.com/mekdi-hub 
+- 📧 Email: mekdimeki8@gmail.com  
+- 🐙 GitHub: https://github.com/mekdi-hub  
 
 ---
 
