@@ -1,9 +1,21 @@
-# 🌍 Welcome to My Digital Universe
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Laravel+Engineer;System+Architect+%26+Builder;Always+Learning+New+Tech" />
-</p>
+# 🌌 INITIATING DEVELOPER SYSTEM...
 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=30&center=true&vCenter=true&width=900&lines=BOOTING+FULL-STACK+SYSTEM...;LOADING+REACT+%2F+LARAVEL+CORE...;INITIALIZING+SOFTWARE+ARCHITECTURE...;WELCOME+TO+MY+DIGITAL+UNIVERSE" />
+
+</div>
+
+---
+
+## 🧬 SYSTEM PROFILE // ABOUT NODE
+
+```txt
+NAME        : Software Engineer
+ROLE        : Full-Stack Developer / System Architect
+STATUS      : Active Builder
+LOCATION    : Earth / Ethiopia
+CORE FOCUS  : Scalable Web Systems + Clean Architecture
 ---
 
 ## 👨‍💻 About Me
@@ -68,13 +80,8 @@ Today, I focus on building **real-world systems with clean architecture and mode
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
+🐍 CONTRIBUTION MATRIX
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" /> </p>
 
 ## 🏗️ Current Focus
 
@@ -104,8 +111,7 @@ I believe in:
 
 ---
 
-## ⚡ Closing
-
-<p align="center">
-  <b>Building today what the future will depend on 🚀</b>
-</p>
+🚀 FINAL MESSAGE
+<div align="center">
+⚡ SYSTEM ONLINE — READY TO BUILD THE FUTURE ⚡
+</div> ```
