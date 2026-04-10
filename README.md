@@ -1,8 +1,10 @@
-# 🌌 Welcome to My Digital Universe
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=30&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+%7C+Laravel+Engineer;System+Architect+%26+Builder;Crafting+Scalable+Digital+Experiences" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FFF7,100:2C5364&height=220&section=header&text=MY%20DIGITAL%20UNIVERSE&fontSize=40&fontColor=00FFF7&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=30&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+%7C+Laravel+Engineer;System+Architect+%26+Builder;Crafting+Scalable+Digital+Experiences" />
+
+</div>
 
 ---
 
@@ -12,7 +14,11 @@ I am a passionate **Software Engineering student and Full-Stack Developer** dedi
 
 My journey began at **Wollo University**, where I developed a strong foundation in software engineering, algorithms, and system design.
 
-Today, I focus on creating **real-world digital systems** using clean architecture, modern technologies, and performance-driven development.
+Today, I focus on creating **real-world digital systems** using clean architecture and modern technologies.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:00FFF7,100:0f2027&height=100&section=header"/>
 
 ---
 
@@ -24,11 +30,11 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 
 ## ⚡ What I Do
 
-- 🎨 Build modern, responsive, and interactive frontends (React)  
+- 🎨 Build modern, responsive frontends (React)  
 - ⚙️ Develop scalable backend systems (Laravel / PHP)  
-- 🔗 Design and integrate RESTful APIs  
-- 🧠 Architect full-stack systems from scratch  
-- 🚀 Deliver production-ready, real-world applications  
+- 🔗 Design RESTful APIs  
+- 🧠 Architect full-stack systems  
+- 🚀 Deliver production-ready applications  
 
 ---
 
@@ -48,10 +54,9 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 ![MySQL](https://img.shields.io/badge/MySQL-00AEEF?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F4E79?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-FF2D00?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FFF7,100:2C5364&height=100&section=header"/>
 
 ---
 
@@ -76,11 +81,19 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 
 ---
 
+## 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00FFF7&style=for-the-badge" />
+</p>
+
+---
+
 ## 🏗️ Current Focus
 
 - Building full-stack real-world systems  
-- Improving system design & architecture skills  
-- Creating scalable Laravel + React applications  
+- Improving system architecture  
+- Scaling Laravel + React applications  
 - Learning advanced backend patterns  
 
 ---
@@ -97,14 +110,15 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: your-email@example.com  
-- 💼 Portfolio: coming soon  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: mekdimeki8@gmail.com 
+- 🐙 GitHub: https://github.com/mekdi-hub 
 
 ---
 
-## ⚡ Closing
+<div align="center">
 
-<p align="center">
-  <b>🚀 Building today what the future will depend on</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:00FFF7,100:0f2027&height=120&section=footer"/>
+
+### 🚀 BUILDING THE FUTURE — ONE SYSTEM AT A TIME
+
+</div>
