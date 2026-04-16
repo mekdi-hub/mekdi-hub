@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I am a passionate **Software Engineering student and Full-Stack Developer** dedicated to building scalable, efficient, and user-focused web applications.
@@ -26,58 +24,54 @@ Today, I focus on creating **real-world digital systems** using clean architectu
 
 > Transforming ideas into scalable digital systems that solve real-world problems through clean, efficient, and maintainable code.
 
----
 
-## ⚡ What I Do
+## ⚡ What I Do Best
 
-- 🎨 Build modern, responsive frontends (React)  
-- ⚙️ Develop scalable backend systems (Laravel / PHP)  
-- 🔗 Design RESTful APIs  
-- 🧠 Architect full-stack systems  
-- 🚀 Deliver production-ready applications  
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-00FFF7?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FF3C00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF0033?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-9B59B6?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00AEEF?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F4E79?style=for-the-badge&logo=postgresql&logoColor=white)
+```txt id="b2kl6q"
+Frontend Development   → React • Interactive UI • Animations
+Backend Development    → Laravel • APIs • Authentication
+Database Systems       → MySQL • PostgreSQL
+System Design          → Scalable Architecture • Optimization
+```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FFF7,100:2C5364&height=100&section=header"/>
+## 🌌 Vision
+
+> I design systems that are not only functional,
+> but **intuitive, scalable, and impactful**.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mekdi-hub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekdi-hub&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekdi-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mekdi-hub&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekdi-hub&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mekdi-hub&theme=react-dark&bg_color=0f2027&hide_border=true&line=ff416c&point=ff4b2b" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mekdi-hub/mekdi-hub/output/snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
